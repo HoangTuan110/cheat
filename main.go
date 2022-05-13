@@ -46,7 +46,7 @@ func main() {
 	var rootCmd = &cobra.Command{
 		Use:   "cheat <topic>",
 		Short: "A CLI tool that fetches data from cht.sh",
-		Long:  `'cheat' is a program that fetches data from cht.sh based on the input`,
+		Long:  `'cheat' is a program that fetches data from cht.sh based on the topic given`,
 		Run: func(cmd *cobra.Command, args []string) {
 			fetchData()
 		},

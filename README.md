@@ -11,7 +11,11 @@
 	make
 	make install
 	```
-3. You should have a command called `cheat` in your shell, provide it a topic to get started.
+3. You should have a command called `cheat` in your shell, provide it a topic to get started. Example:
+
+	```
+	cheat cpp/:list
+	```
 
 # How To Use
 
