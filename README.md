@@ -17,10 +17,6 @@
 	cheat cpp/:list
 	```
 
-# How To Use
-
-Type `cheat -h` for help.
-
 # License
 
 MIT
